@@ -1,4 +1,4 @@
-# Welcome to project 4, Group 8
+# Welcome to Project 4, Group 8
 ---
 ## How do wildfires impact our lives?
 ---
